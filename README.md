@@ -64,14 +64,16 @@
       - 購入された商品に「SOLD OUT」と表示する機能実装
 
   - 商品購入確認画面(フロントエンド)
-![購入確認](app/assets/images/buyer.mp4)
+![購入確認](app/assets/images/buy1)
+![購入確認](app/assets/images/buy2)
     - 概要
       - 商品購入確認画面の作成
     - 担当内容
       - haml,scssを使用しページのマークアップ作業
 
   - 出品機能実装(バックエンド)
-![出品](app/assets/images/seller.mp4)
+![出品](app/assets/images/sell1)
+![出品](app/assets/images/sell2)
     - 概要
       - 必須項目を入力しないと出品できないよう設定
     - 担当内容
