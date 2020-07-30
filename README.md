@@ -64,7 +64,7 @@
       - 購入された商品に「SOLD OUT」と表示する機能実装
 
   - 商品購入確認画面(フロントエンド)
-![購入確認](app/assets/images/buy1.png)
+![購入確認](app/assets/images/buy1.jpg)
 ![購入確認](app/assets/images/buy2.png)
     - 概要
       - 商品購入確認画面の作成
